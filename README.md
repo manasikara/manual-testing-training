@@ -1,5 +1,5 @@
 # manual-testing-training-in-progress
-Practicing a manual testing. Also, added certifications for potential employer.
+Practicing a manual testing. Also, added certifications for potential employer available for viewing.
 ------------------------------
 FIRST APP
 - 'Dodawarka' web application testing (in progress) --> https://naucz-sie-testowac.czyitjestdlamnie.pl/ 
