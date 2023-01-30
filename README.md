@@ -3,7 +3,11 @@ Practicing a manual testing. Also, added some certifications for a potential emp
 ------------------------------
 FIRST APP
 - 'Dodawarka' web application testing (in progress) --> https://naucz-sie-testowac.czyitjestdlamnie.pl/ 
-- My Trello account with a sample project of case reporting (in progress) --> https://trello.com/b/9rlGdIH1/sample-project-management
+- My Trello account with a sample project of case reporting (in progress) --> https://trello.com/b/9rlGdIH1/dodawarka-app-project
 
 --------------------------------------
-SECOND APP ? ? ?
+SECOND APP
+- YourToDoList App
+- My Trello account with a sample project of case reporting (in progress) --> https://trello.com/b/eXWHY64T/yourtodolist-app-project
+
+-------------------------------
