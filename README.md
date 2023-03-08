@@ -1,4 +1,4 @@
-# manual-testing-training-in-progress
+# manual-testing-training
 Practicing a manual testing. Also, added some certifications for a potential employer available for viewing.
 ------------------------------
 FIRST APP
