@@ -1,4 +1,4 @@
-- 'Dodawarka' web application testing (in progress) --> https://naucz-sie-testowac.czyitjestdlamnie.pl/ 
-- My Trello account with a sample project of case reporting (in progress) --> https://trello.com/b/9rlGdIH1/sample-project-management
+- 'Dodawarka' web application testing --> https://naucz-sie-testowac.czyitjestdlamnie.pl/ 
+- My Trello account with a sample project of case reporting --> https://trello.com/b/9rlGdIH1/sample-project-management
 
 --------------------------------------
