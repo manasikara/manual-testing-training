@@ -13,4 +13,4 @@ SECOND APP
 -------------------------------
 WEBSITE TESTING
 - https://academybugs.com/find-bugs/
-- test cases can be found in "AcademyBugs.com" folder
+- test cases can be found in: ---> "Manual testing training in progress" folder --> "AcademyBugs.com" folder
