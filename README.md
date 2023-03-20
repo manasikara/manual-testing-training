@@ -11,3 +11,6 @@ SECOND APP
 - My Trello account with a sample project of case reporting --> https://trello.com/b/eXWHY64T/yourtodolist-app-project
 
 -------------------------------
+WEBSITE TESTING
+- https://academybugs.com/find-bugs/
+- test cases can be found in "https://academybugs.com/find-bugs/" folder
