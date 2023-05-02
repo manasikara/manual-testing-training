@@ -14,3 +14,8 @@ SECOND APP
 WEBSITE TESTING
 - https://academybugs.com/find-bugs/
 - test cases can be found in: ---> "Manual testing training in progress" folder --> "AcademyBugs.com" folder
+
+-----------------------------------------------------
+ANOTHER APP TESTING
+Boti App (IOS, Android)
+test cases --> https://trello.com/b/RnGfODpi/boti-android-app
