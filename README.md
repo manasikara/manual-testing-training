@@ -1,12 +1,12 @@
 # manual-testing-training
 Practicing a manual testing. Also, added some certifications for a potential employer available for viewing.
 ------------------------------
-FIRST APP
-- 'Dodawarka' web application testing --> https://naucz-sie-testowac.czyitjestdlamnie.pl/ 
+WEB APP TESTING
+- 'Dodawarka' ---> https://naucz-sie-testowac.czyitjestdlamnie.pl/ 
 - My Trello account with a sample project of case reporting --> https://trello.com/b/9rlGdIH1/dodawarka-app-project
 
 --------------------------------------
-SECOND APP
+WEB APP TESTING
 - YourToDoList App
 - My Trello account with a sample project of case reporting --> https://trello.com/b/eXWHY64T/yourtodolist-app-project
 
@@ -16,6 +16,7 @@ WEBSITE TESTING
 - test cases can be found in: ---> "Manual testing training in progress" folder --> "AcademyBugs.com" folder
 
 -----------------------------------------------------
-ANOTHER APP TESTING
+MOBILE APP TESTING
 Boti App (IOS, Android)
 test cases --> https://trello.com/b/RnGfODpi/boti-android-app
+----------------------
