@@ -25,6 +25,6 @@ WEBSITE TESTING
 
 MOBILE APP TESTING
 
-Boti App (IOS, Android)
+Boti App (Mac, IOS, Android)
 test cases --> https://trello.com/b/RnGfODpi/boti-android-app
 ----------------------
