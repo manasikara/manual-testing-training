@@ -27,4 +27,6 @@ MOBILE APP TESTING
 
 Boti App (Mac, IOS, Android)
 test cases --> https://trello.com/b/RnGfODpi/boti-android-app
+
+12.6.23: added a few new test cases based on the MacOS platform (starting from the case ID 10 and up)
 ----------------------
